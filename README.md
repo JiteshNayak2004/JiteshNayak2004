@@ -1,1 +1,3 @@
-heyoo bale bale chuthio
+Hey there, world! I’m Jitesh Kumar Nayak, a 3rd-year undergrad at PES University. I enjoy learning and reading about everything tech. Currently, I am interested in computer architecture and analog/RFIC design and am actively trying to build cool projects in these areas.
+
+When I’m not working, I’m usually speed cubing my way to a new personal best. I’m also currently learning to solve the Rubik’s cube blindfolded and making steady progress (like, seriously, who needs to see?). I’m also neck-deep in the vat of anime, having watched over 300 already (gotta catch ’em all!) including the big four, and enjoy doing so.
